@@ -1,4 +1,3 @@
-cs student at ontario tech. backend and infra.
 
 **building**
 - **[torpor](https://github.com/arajenk/torpor)**: self-hosted paas in go. one-repo setup on your own server, postgres for every app, apps scale to zero and wake without a noticeable cold start
