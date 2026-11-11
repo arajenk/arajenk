@@ -1,5 +1,3 @@
-### arajen
-
 cs student at ontario tech. backend and infra.
 
 **building**
