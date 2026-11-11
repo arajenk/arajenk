@@ -1,16 +1,15 @@
-## Hi there 👋
+### arajen
 
-<!--
-**arajenk/arajenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs student at ontario tech. backend and infra.
 
-Here are some ideas to get you started:
+**building**
+- **[torpor](https://github.com/arajenk/torpor)**: self-hosted paas in go. one-repo setup on your own server, postgres for every app, apps scale to zero and wake without a noticeable cold start
+- **[duelle](https://github.com/arajenk/duelle)**: real-time multiplayer word-guessing game. go backend, 2–8 player rooms you join with a pin
+- **bugkata**: realistic debugging and code review drills in go and python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**shipped**
+- **[beam](https://beamshare.app)**: file sharing for up to 10 files and 10gb. multipart presigned uploads straight to r2, no database
+- **[sip](https://github.com/arajenk/sip)**: macos menu bar water reminder in swift. pauses when you're idle
+- **[mac-polish](https://github.com/arajenk/mac-polish)**: minecraft mod that fixes a held-item issue
+
+[linkedin](https://www.linkedin.com/in/arajenk/)
