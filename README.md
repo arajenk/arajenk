@@ -7,6 +7,6 @@
 **shipped**
 - **[beam](https://beamshare.app)**: file sharing for up to 10 files and 10gb. multipart presigned uploads straight to r2, no database
 - **[sip](https://github.com/arajenk/sip)**: macos menu bar water reminder in swift. pauses when you're idle
-- **[mac-polish](https://github.com/arajenk/mac-polish)**: minecraft mod that fixes a held-item issue
+- **[mac-polish](https://github.com/arajenk/mac-polish)**: minecraft mod fixing mac-specific bugs (cursor after tab-out, hotbar scroll, held item clipping)
 
 [linkedin](https://www.linkedin.com/in/arajenk/)
