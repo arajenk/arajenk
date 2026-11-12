@@ -5,7 +5,7 @@
 - **[bugkata](https://github.com/arajenk/bugkata)**: realistic debugging and code review drills in go and python
 
 **shipped**
-- **[beam](https://beamshare.app)**: file sharing for up to 10 files and 10gb. multipart presigned uploads straight to r2, no database
+- **[beam](https://beamshare.app)**: file sharing and requests for up to 10 files and 10gb, or up to 25gb for requests. multipart presigned uploads straight to r2, no database
 - **[sip](https://github.com/arajenk/sip)**: macos menu bar water reminder in swift. pauses when you're idle
 - **[mac-polish](https://github.com/arajenk/mac-polish)**: minecraft mod fixing mac-specific bugs (cursor after tab-out, hotbar scroll, held item clipping)
 
